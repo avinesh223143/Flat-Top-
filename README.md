@@ -1,4 +1,4 @@
-# Flat-Top Sampling
+# EX 1c Flat-Top Sampling
 ## Date:15/03/2025
 ### Aim
     Write a Python program for the Construction and Reconctruction of Flat-Top Sampleing.
